@@ -76,3 +76,8 @@ File: `capital_city_quiz_game.py`
 - Loops and Conditions
 - File Handling
 - Random Module
+
+---
+
+## author
+@abbyhlaing
