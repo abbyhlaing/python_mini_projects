@@ -1,0 +1,10 @@
+
+---
+
+## requirements.txt
+
+The projects only use Python built-in modules (`csv` and `random`), so technically no external installation is required.
+
+```txt
+# No external libraries required
+# Built using Python standard libraries only
